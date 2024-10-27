@@ -10,8 +10,6 @@
   </a>
 </p>
 
-- 📫 How to reach me **mohamedelghazi704@gmail.com**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -27,8 +25,8 @@
 
 <h3 align="left">Blog:</h3>
 <p align="left">
-  <a href="https://packproiptv.com" target="_blank">
-    <img src="https://packproiptv.com/wp-content/uploads/2024/07/packproiptv.svg" alt="PackPro IPTV Logo" width="150" />
+  <a href="https://solideinfo.com" target="_blank">
+    <img src="https://solideinfo.com/wp-content/uploads/2024/09/logoSolideInfo-1.svg" alt="Platform" width="150" />
   </a>
 </p>
 
