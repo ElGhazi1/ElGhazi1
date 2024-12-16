@@ -23,29 +23,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
   </a> 
   <strong>C</strong>
-  &nbsp;|&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a> 
-  <strong>C++</strong>
-</p>
-
----
-
-<h3 align="left">🌐 My Blog</h3>
-<p align="left">
-  <a href="https://solideinfo.com" target="_blank">
-    <img src="https://solideinfo.com/wp-content/uploads/2024/09/logoSolideInfo-1.svg" alt="Solide Info" width="150" />
-  </a>
-</p>
-
----
-
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elghazi1&show_icons=true&locale=en" alt="GitHub Stats" />
-  <br/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elghazi1" alt="GitHub Streak" />
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elghazi1&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
